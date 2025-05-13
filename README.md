@@ -8,7 +8,7 @@
 python setup.py build_ext --inplace
 ```
 ### Создаём файл для сравнения Python и Cython
-[Файл](https://github.com/vasiliza2/-6_2-/blob/main/ferma_2.py) запускает timeit с аналогичными параметрами и сравнивает два варианта и строит графики
+[Файл](fermaa.py) запускает timeit с аналогичными параметрами и сравнивает два варианта и строит графики
 ### Результаты сравнения Python и Cython
 [image1](1.jpg)
 [image2](2.jpg)
