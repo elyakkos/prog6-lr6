@@ -2,7 +2,7 @@
 ## Выполнила: Костылева Э.П.
 ## Шаг 1: переписать функции для нахождения чисел с помощью Cython
 ### Готовим файлы для компиляции Cython
-Переписанная функция на [Cython](ferma_fact.pyx) и [setup.py](https://github.com/vasiliza2/-6_2-/blob/main/setup.py)
+Переписанная функция на [Cython](ferma_fact.pyx) и [setup.py](setup.py)
 ### Компилируем Cython
 ``` python
 python setup.py build_ext --inplace
