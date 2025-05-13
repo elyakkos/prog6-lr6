@@ -1,8 +1,8 @@
 # Лабораторная работа № 6
-## Выполнила: Васильева Е.Д., ИВТ 2.1
+## Выполнила: Костылева Э.П.
 ## Шаг 1: переписать функции для нахождения чисел с помощью Cython
 ### Готовим файлы для компиляции Cython
-Переписанная функция на [Cython](https://github.com/vasiliza2/-6_2-/blob/main/ferma_fact.pyx) и [setup.py](https://github.com/vasiliza2/-6_2-/blob/main/setup.py)
+Переписанная функция на [Cython](ferma_fact.pyx) и [setup.py](https://github.com/vasiliza2/-6_2-/blob/main/setup.py)
 ### Компилируем Cython
 ``` python
 python setup.py build_ext --inplace
