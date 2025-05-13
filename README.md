@@ -12,7 +12,7 @@ python setup.py build_ext --inplace
 ### Результаты сравнения Python и Cython
 [image1](1.jpg)
 ### Сравнение общего времени выполнения Python и Cython
-[image2](2.jpg)
+[image2](3.jpg)
 ### Сравнение времени выполнения для каждого числа
-[image3](3.jpg)
+[image3](2.jpg)
 
